@@ -12,3 +12,12 @@ print(type(flotante))
 texto = "Algun string"
 print(type(texto))
 
+
+booleano = True
+print(type(booleano))
+
+
+
+numero_texto = "10"
+print(numero_texto + str(numero))
+print(int(numero_texto) + numero)
