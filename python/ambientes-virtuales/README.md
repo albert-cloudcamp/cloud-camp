@@ -13,6 +13,12 @@ Activar un ambiente virtual:
 source ambiente-1/bin/activate
 ```
 
+Instalar dependencias (Importante tener el ambiente virtual activado):
+
+```bash
+pip install -r requirements.txt 
+```
+
 Desactivar un ambiente virtual:
 ```bash
 deactivate
